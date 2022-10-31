@@ -2,6 +2,18 @@
 
 /*
 
+Client Side Rendering (CSR): 
+-El navegador del cliente arma la estructura de la página web con JavaScript.
+
+Static Side Generation (SSG): 
+-La página web se construye al momento del build o compilación de la aplicación.
+
+Sever Side Rendering (SSR): 
+-El servidor se encarga de procesar y generar la página web.
+
+
+----------------------------------------------------------------
+
 https://static.platzi.com/media/public/uploads/2-slides_59473948-d6e0-4686-9153-31abf95d9cf9.pdf
 
 
@@ -33,4 +45,6 @@ Tipos de aplicaciones según su router: SPAs vs. SSR - Platzi
 https://platzi.com/clases/2239-frameworks-javascript/36181-tipos-de-aplicaciones-segun-su-router-spas-vs-ssr/
 
 */
+
+
 
