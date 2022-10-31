@@ -8,7 +8,7 @@ Client Side Rendering (CSR):
 Static Side Generation (SSG): 
 -La página web se construye al momento del build o compilación de la aplicación.
 
-Sever Side Rendering (SSR): 
+Server Side Rendering (SSR): 
 -El servidor se encarga de procesar y generar la página web.
 
 
@@ -43,6 +43,11 @@ https://platzi.com/clases/2646-php/44431-como-interactua-una-pagina-web-con-tu-b
 Tipos de aplicaciones según su router: SPAs vs. SSR - Platzi
 
 https://platzi.com/clases/2239-frameworks-javascript/36181-tipos-de-aplicaciones-segun-su-router-spas-vs-ssr/
+
+----------------------------------------------------------------
+
+Levantar servidor con WSL
+php -S localhost:8000 desde la carpeta del proyecto.
 
 */
 
